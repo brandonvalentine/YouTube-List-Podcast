@@ -1,0 +1,2 @@
+#!/bin/sh
+./youtube_list_podcast.pl daemon -l http://*:$PORT -m production
